@@ -1,10 +1,11 @@
 import os
+
 from natsort import natsorted
 
 
 def file_write(content):
     file = open(f"output.txt", "a", encoding="utf-8")
-    file.write(f"{content}\n")
+    file.write(f"{content.replace('﻿', '', len(content))}\n")
     file.close()
 
 
