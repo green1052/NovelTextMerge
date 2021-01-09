@@ -1,6 +1,6 @@
 # NovelTextMerge
 
-[JoaraDownloader](https://github.com/green1052/JoaraDownloader), [MunpiaDownloader](https://github.com/green1052/MunpiaDownloader)로 다운로드한 텍본을 합쳐주는 프로그램입니다.
+텍스트를 합쳐주는 프로그램
 
 사용법
 
